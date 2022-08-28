@@ -25,6 +25,7 @@ import pytz
 project = 'APyB'
 copyright = '2022, APyB'
 author = 'APyB'
+html_baseurl = "https://apyb.python.org.br"
 
 
 # -- General configuration ---------------------------------------------------
@@ -36,6 +37,7 @@ author = 'APyB'
 sys.path.append(os.path.abspath("./_ext"))
 
 extensions = [
+    "sphinx.ext.githubpages",
     "myst_parser",
     # Local extensions
     "github_repos",
