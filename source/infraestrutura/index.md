@@ -3,6 +3,7 @@
 ```{toctree}
 :hidden:
 
+domínios
 repositórios
 ```
 
