@@ -20,6 +20,7 @@ Boas vindas a wiki da Associação Python Brasil.
 :hidden:
 
 guias/index
+assembleia/index
 ```
 
 ```{toctree}
