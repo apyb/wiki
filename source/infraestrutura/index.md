@@ -5,6 +5,7 @@
 
 domínios
 repositórios
+cofre
 ```
 
 - [Repositórios](./repositórios)
