@@ -20,7 +20,7 @@ Os segredos da APyB são encriptados usando o gerenciador de senhas KeePassXC. E
 
 Para manter o repositório sincronizado, podemos usar normalmente os comandos `git pull` e `git commit + push`. Porém, para facilitar, criamos os comandos `apyb-pull` e `apyb-push`. Esses dois comandos simplificam o passo a passo necessário quando usamos diretamente o git.
 
-Você pode conferir e copiar o código fonte dos comandos [aqui](), ou então executar os três passos abaixo para torná-los disponíveis no seu computador. Caso você use Zsh ou outro *shell*, mude o arquivo `.bashrc` usado no exemplo de acordo com o seu caso.
+Você pode conferir e copiar o código fonte dos comandos [aqui](https://apyb.python.org.br/apyb-cofre.sh), ou então executar os três passos abaixo para torná-los disponíveis no seu computador. Caso você use Zsh ou outro *shell*, mude o arquivo `.bashrc` usado no exemplo de acordo com o seu caso.
 
 1. Adicione a variável de ambiente `APYB_COFRE_PATH` apontando para o caminho do repositório:
     ```
