@@ -64,6 +64,8 @@ language = 'pt_BR'
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+html_extra_path = [os.path.join(os.path.abspath('.'), '_files')]
+
 
 # -- Options for HTML output -------------------------------------------------
 
