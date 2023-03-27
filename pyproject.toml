@@ -8,10 +8,11 @@ authors = ["Marco Rougeth <rougeth@users.noreply.github.com>"]
 python = "^3.10"
 Sphinx = "^5.1.1"
 sphinx-autobuild = "^2021.3.14"
-furo = "^2022.6.21"
+furo = "^2023.03.27"
 myst-parser = "^0.18.0"
 httpx = "^0.23.0"
 ghp-import = "^2.1.0"
+pytz = "^2023.2"
 
 [tool.poetry.dev-dependencies]
 
