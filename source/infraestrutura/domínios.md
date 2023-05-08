@@ -8,8 +8,9 @@ A APyB mantém uma série de domínios e subdomínios relacionados à Associaç�
 ## Domínios mantidos pela APyB
 
 - [python.org.br](https://python.org.br)
-- [pythonbrasil.com.br](https://pythonbrasil.com.br)
 - [pythonbrasil.org.br](https://pythonbrasil.org.br)
+- [pythonbrasil.com.br](https://pythonbrasil.com.br)
+- [pythonnorte.org](https://pythonnorte.org)
 - [plone.org.br](https://plone.org.br)
 - [django.org.br](https://django.org.br)
 - [odoobrasil.org.br](https://odoobrasil.org.br)
