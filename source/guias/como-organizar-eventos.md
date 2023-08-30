@@ -72,8 +72,8 @@ Ao solicitar movimentação financeira ou recebimento de recursos do exterior ta
 * - IBAN
   - BR0600000000000890000781266C1
 
-* - BIC
-  - BRASBRRJBNU
+* - SWIFT CODE
+  - BRASBRRJCTA
 ```
 
 ## O que é e como funciona um patrocínio?
