@@ -72,10 +72,50 @@ html_extra_path = [os.path.join(os.path.abspath('.'), '_files')]
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'furo'
+html_theme = "furo"
+html_theme_options = {
+    "light_logo": "apyb-light.svg",
+    "dark_logo": "apyb-dark.svg",
+    "sidebar_hide_name": True,
+    "light_css_variables": {
+        # Background
+        "color-background-secondary": "#FAF9FA",
+        # Sidebar
+        "color-link-underline": "#FAF9FA",
+        "color-link-underline--hover": "#0056CD",
+        "color-sidebar-link-text--top-level": "#0056CD",
+        # Text
+        "color-content-foreground": "#011224",
+        "color-link": "#0056cd",
+    },
+    "dark_css_variables": {
+        # Background
+        "color-background-border": "#0056CD",
+        "color-background-hover": "#01122430",
+        "color-background-primary": "#011224",
+        "color-background-secondary": "#0056CD",
+        # Sidebar
+        "color-sidebar-caption-text": "#ffffff",
+        "color-sidebar-link-text": "#ffffffaa",
+        "color-sidebar-link-text--top-level": "#ffffff",
+        "color-sidebar-search-background": "rgba(255, 255, 255, 0.1)",
+        "color-sidebar-search-background--focus": "rgba(255, 255, 255, 0.2)",
+        "color-sidebar-search-foreground": "#ffffff",
+        "color-sidebar-search-icon": "rgba(255, 255, 255, 0.5)",
+        # Text
+        "color-content-foreground": "#FAF9FAee",
+        "color-link": "#fff",
+        "color-link--hover": "#FFB93B",
+        "color-link-underline": "#FFB93B",
+        "color-link-underline--hover": "#FFB93B",
+    },
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ["_static"]
+html_css_files = [
+    "css/custom.css",
+]
 html_title = "Associação Python Brasil"

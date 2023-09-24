@@ -4,8 +4,6 @@ def template(app, docname: str, source: list[str]):
         return
 
     content = content.replace("!template", "", 1)
-    print("*"*80)
-    print(app.config.templates_context)
     rendered = app.builder.templates.render_string(content, app.config.templates_context)
     source[0] = rendered
 
