@@ -2,7 +2,7 @@
 
 Este manual é um documento vivo para (1) explicar como você pode usar a APyB para aliviar as questões burocráticas do seu evento e (2) simplificar o processo com base em feedbacks e aprendizado.
 
-Você pode contribuir diretamente para a evolução do manual enviando suas dúvidas, sugestões e observações para APyB-condir@googlegroups.com.
+Você pode contribuir diretamente para a evolução do manual enviando suas dúvidas, sugestões e observações para APyB-condir@ (googlegroups.com).
 
 ## O que é preciso para usar a infraestrutura da APyB?
 
@@ -16,11 +16,15 @@ Os critérios para usar a infraestrutura da APyB são simples:
 
 O organizador do evento solicita o apoio da APyB para o seu evento através do [Formulário de Solicitação de Apoio a Eventos](https://docs.google.com/forms/d/e/1FAIpQLSdtHD8t-P7dYqoCBonXOCv_WsHhmekZvulKOMHHJagxG1laSg/viewform).
 
+:::{important}
+A APyB só poderá ajudar eventos que tenham sido solicitados através deste formulário.
+:::
+
 O organizador do evento será o responsável por buscar os patrocínios e a APyB fornece a infraestrutura burocrática emitindo *notas fiscais* ou *recibos* para patrocínios vindos do Brasil e *invoices* para patrocínios vindos do exterior.
 
 Quando a APyB recebe os valores referentes às faturas de patrocínio emitidas, o evento passa a ter um crédito na APyB e você pode solicitar o pagamento de despesas do evento.
 
-Nenhum recurso financeiro da APyB está disponível para o evento. Portanto o evento não pode gastar mais do que arrecadou. Se por alguma razão isso ocorrer, o organizador do evento é pessoalmente responsável por ressarcir a APyB zerando o saldo negativo.
+Nenhum recurso financeiro da APyB está disponível para o evento. Portanto **o evento não pode gastar mais do que arrecadou**. Se por alguma razão isso ocorrer, o organizador do evento é pessoalmente responsável por ressarcir a APyB zerando o saldo negativo.
 
 Além disso, qualquer saldo positivo que restar do evento ficará como doação para a APyB custear sua operação e servir como fundo de reserva para a organização da Python Brasil. Portanto nenhum saldo positivo poderá ser repassado ou transferido para outros eventos.
 
@@ -86,7 +90,9 @@ Ao solicitar movimentação financeira ou recebimento de recursos do exterior ta
 1. O Organizador agora **realiza** o evento cumprindo todos os acordos com os Patrocinadores e Participantes.
 1. Após o evento, o Organizador **presta contas** ao Patrocinador sobre o resultado do evento evidenciando que ninguém deve nada à ninguém, e alimentando a relação para futuras iniciativas.
 
+:::{important}
 Todos os 5 movimentos são **imprescindíveis**, mas pode variar como acontecem.
+:::
 
 Às vezes a **proposta** pode ser bastante informal, como num email ou até contato verbal. Isso pode ocorrer quando o Patrocinador é uma empresa pequena, ou o patrocínio é um valor pequeno, ou o Organizador tem muita intimidade com o Patrocinador.
 
@@ -110,7 +116,9 @@ O Organizador deve acompanhar o pagamento com o patrocinador e quando receber a 
 
 Assim a APyB vai verificar a existência do depósito na conta corrente e responder o email confirmando o valor recebimento.
 
+:::{important}
 É importante usar o mesmo email para que todo o ciclo de vida da nota fiscal fique registrado na mesma *thread*.
+::: 
 
 ### Quanto tempo leva para eu receber a Nota Fiscal solicitada?
 
@@ -119,7 +127,10 @@ Em aproximadamente 3 dias a nota fiscal será emitida e encaminhada para você e
 ### Quando o dinheiro do patrocínio no Brasil fica disponível?
 
 Em até 02 (dois) dias úteis se o patrocinador fez um DOC ou imediatamente se TED.
-**Atenção:** É importante observar que será considerado crédito disponível para o evento na APyB apenas os valores efetivamente depositados pelo patrocinador.
+
+:::{important}
+É importante observar que será considerado crédito disponível para o evento na APyB apenas os valores efetivamente depositados pelo patrocinador.
+:::
 
 ### O patrocinador quer parcelar o patrocínio. É possível?
 
@@ -141,7 +152,9 @@ Então, por exemplo:
 
 Alguns patrocinadores como empresas S.A., não aceitam nota fiscal e exigem um recibo para realizar o patrocínio.
 
-**A Globo.com é um caso frequente.**
+:::{warning}
+A Globo.com é um caso frequente.
+:::
 
 Este formulário te ajudará a solicitar a criação do documento da forma correta que será:
 
@@ -149,7 +162,7 @@ Este formulário te ajudará a solicitar a criação do documento da forma corre
 1. A diretoria vai imprimir o documento, carimbar, assinar, reconhecer firma e enviar pelos correios para a empresa.
 1. A diretoria vai responder o email anexando uma foto do documento impressos para registro.
 
-[Clique aqui para emitir o recibo.](https://docs.google.com/forms/d/e/1FAIpQLSec7xGovPRcwbFYTfGvjjsVEXCak1Z3bqdNC61aDHsOBOqd_g/viewform)
+[Clique aqui para emitir o recibo.](https://forms.gle/xtNQ4Zq1WozatsZd6)
 
 ## Como receber patrocínio vindo do exterior?
 
@@ -185,9 +198,9 @@ Pagamentos devem ser **preferencialmente** via boleto e você precisa:
 1. Acessar o [formulário de solicitação de pagamentos](https://www.ultradox.com/app/apyb-solicitacao-pagamento) preenchendo adequadamente os dados e anexando a nota fiscal.
 1. Após submeter os dados do formulário de acordo, um email copiando você, será automaticamente encaminhado para a APyB com a sua solicitação
 
-**Atenção**
-
+:::{warning}
 Para que a APyB possa realizar um pagamento, é necessário que o dinheiro dos patrocinadores do seu evento estejam na conta da APyB. Por isso é *muito importante a organização do fluxo de caixa do seu evento para evitar problemas*.
+:::
 
 Todo pagamento necessita de uma nota fiscal emitida pelo Fornecedor do seu evento em nome da APyB. **Não é possível realizar um pagamento sem recebermos antes a nota fiscal**.
 
@@ -217,6 +230,8 @@ Se o seu evento for pago, você tem 02 (duas) opções descritas abaixo.
 
 Neste caso a APyB fica fora do processo e você deverá gerenciar estes recursos diretamente, bem como pagar quaisquer impostos que sejam devidos da prestação do serviço.
 
-**ATENÇÃO**: Se você preferir receber a receita das inscrições diretamente, não será possível passar estes recursos pela conta bancária da APyB, nem solicitar que a APyB emita notas fiscais referente às inscrições.
+:::{warning}
+Se você preferir receber a receita das inscrições diretamente, não será possível passar estes recursos pela conta bancária da APyB, nem solicitar que a APyB emita notas fiscais referente às inscrições.
+:::
 
 Isso não afeta os patrocínios.
