@@ -1,22 +1,22 @@
 # Prêmio Dorneles Treméa|Jean Ferri
 
-**O Prêmio Dorneles Treméa/Jean Ferri é concedido ao membro, ou membros, da comunidade Python brasileira que mantém vivo o espírito de colaboração, empreendedorismo e entrega à comunidade.**
+**O Prêmio Dorneles Treméa/Jean Ferri é concedido ao membro ou membros da comunidade Python brasileira que mantêm vivo o espírito de colaboração, empreendedorismo e entrega à comunidade.**
 
 ## O Prêmio
 
-Criado em 2011 pela Associação Python Brasil, o Prêmio Dorneles Treméa|Jean Ferri é um momento para a comunidade Python brasileira lembrar e homenagear anualmente a(s) pessoa(s) que mais se destacou(aram) e contribuíu(íram) para manter vivo o espírito de colaboração, empreendedorismo e entrega à comunidade que eram características marcantes de nossos colegas Dorneles Treméa e Jean Ferri.
+Criado em 2011 pela Associação Python Brasil, o Prêmio Dorneles Treméa|Jean Ferri é um momento para a comunidade Python brasileira lembrar e homenagear anualmente a pessoa ou as pessoas que mais se destacaram e contribuíram para manter vivo o espírito de colaboração, empreendedorismo e entrega à comunidade que eram características marcantes de nossos colegas Dorneles Treméa e Jean Ferri.
 
 ### Critérios utilizados
 
-O prêmio é dedicado àquelas pessoas que, durante os últimos doze meses, dedicaram-se a:
+O prêmio é dedicado àquelas pessoas que, durante os últimos doze meses, se dedicaram a:
 
 - Divulgar e ensinar Python
 - Participar ativamente das comunidades locais
 - Participar ativamente das comunidades online
 
-E estão excluídos da seleção:
+Estão excluídos da seleção:
 
-- Presidente da gestão atual da APyB
+- A diretória atual da APyB
 - Big Kahuna e organizadores da Python Brasil
 - Homenageados em anos anteriores
 
@@ -113,9 +113,9 @@ Gaúcho, colorado, amante de sushi e de suco de maçã, empreendedor, líder de 
 
 Déo, como os mais próximos o chamavam, foi fundador da Debian-RS, da Associação Python Brasil, membro da Plone Foundation, Big Kahuna da PythonBrasil[5] e palestrante constante.
 
-Era o presidente da Associação Python Brasil, quando faleceu em um acidente de carro em 10 de fevereiro de 2011 - na época, com 31 anos.
+Era o presidente da Associação Python Brasil quando faleceu em um acidente de carro em 10 de fevereiro de 2011 - na época, com 31 anos.
 
-Sempre disposto a ajudar, ele será sempre lembrado por sua disposição de compartilhar conhecimento. Seu legado é o espírito de entrega e dedicação que norteia a existência da Associação Python Brasil.
+Sempre disposto a ajudar, ele será sempre lembrado por sua disposição para compartilhar conhecimento. Seu legado é o espírito de entrega e dedicação que norteia a existência da Associação Python Brasil.
 
 Leia mais sobre Dorneles Treméa:
 
@@ -128,9 +128,9 @@ Leia mais sobre Dorneles Treméa:
 
 ![Jean Ferri](images/premio/jean.png)
 
-O gaúcho, Jean Rodrigo Ferri foi uma das primeiras lideranças da comunidade Python no Brasil. Criador do TcheZope.org, o primeiro site sobre Zope e Plone em português, ele foi Big Kahuna da PyCon Brasil 2006 e um dos organizadores da PythonBrasil 2013, além de ser co-fundador da Associação Python Brasil.
+O gaúcho Jean Rodrigo Ferri foi uma das primeiras lideranças da comunidade Python no Brasil. Criador do TcheZope.org, o primeiro site sobre Zope e Plone em português, ele foi Big Kahuna da PyCon Brasil 2006 e um dos organizadores da PythonBrasil 2013, além de ser co-fundador da Associação Python Brasil.
 
-Jean foi um dos idealizadores do domínio do Legislativo na internet (.leg.br) e teve participação efetiva na gestão e no desenvolvimento da maioria dos produtos ofertados pelo programa Interlegis, além de ter liderado a criação do Portal Modelo -- solução utilizada por mais de 1500 camaras legislativas no Brasil.
+Jean foi um dos idealizadores do domínio do Legislativo na internet (.leg.br) e teve participação efetiva na gestão e no desenvolvimento da maioria dos produtos ofertados pelo programa Interlegis, além de ter liderado a criação do Portal Modelo -- solução utilizada por mais de 1500 câmaras legislativas no Brasil.
 
 Leia mais sobre Jean Ferri:
 

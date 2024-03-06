@@ -36,11 +36,11 @@ Sentados (esquerda para direita):
 ## Objetivos e Metas
 
 - Organização de eventos, seminários e palestras;
-- Coordenação de esforços de promoção e marketing da linguagem;
+- Coordenação dos esforços de promoção e marketing da linguagem;
 - Divulgação de casos de sucesso;
 - Manutenção de bases de conhecimento online e sites colaborativos para a linguagem e as principais soluções derivadas;
-- Fomentar a utilização da linguagem e seus derivados em instituições de ensino e organizações privadas, governamentais e de economia mista;
-- Assegurar a proteção e uso das marcas relacionadas à linguagem Python e seus derivados.
+- Fomento à utilização da linguagem e seus derivados em instituições de ensino e organizações privadas, governamentais e de economia mista;
+- Asseguração da proteção e uso das marcas relacionadas à linguagem Python e seus derivados.
 
 ## Formas de contato
 

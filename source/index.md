@@ -4,9 +4,9 @@ hide-toc: true
 
 # Associação Python Brasil
 
-A Associação Python Brasil (APyB) é uma organização sem fins lucrativos, formada em abril de 2007 com a meta de apoiar as comunidades relacionadas à linguagem Python e suas tecnologias derivadas no Brasil.
+A Associação Python Brasil (APyB) é uma organização sem fins lucrativos, formada em abril de 2007, com o objetivo de apoiar as comunidades relacionadas à linguagem Python e suas tecnologias derivadas no Brasil.
 
-Boas vindas ao nosso site!  Aqui você encontrará informações sobre a associação, eventos, guias e informações sobre a infraestrutura da APyB.
+Boas vindas ao nosso site! Aqui, você encontrará informações sobre a associação, eventos, guias e informações sobre a infraestrutura da APyB.
 
 ## Para saber mais sobre a APyB
 - [](/geral/associese)
