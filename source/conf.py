@@ -23,8 +23,8 @@ import pytz
 # -- Project information -----------------------------------------------------
 
 project = 'APyB'
-copyright = '2022, APyB'
-author = 'APyB'
+copyright = '2024, APyB'
+author = 'Associação Python Brasil'
 html_baseurl = "https://apyb.python.org.br"
 
 
@@ -45,6 +45,9 @@ extensions = [
     "template",
 ]
 
+myst_enable_extensions = [
+    "colon_fence",
+]
 
 templates_context = {
     "now": datetime.now(tz=pytz.timezone("America/Sao_Paulo")),
