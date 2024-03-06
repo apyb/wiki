@@ -64,14 +64,10 @@ Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoa
 - 2022 - [Manaus - Amazonas - Centro de Convenções do Amazonas](https://2022.pythonbrasil.org.br/) - Juliany Raiol 
 - 2023 - [Caxias do Sul - Rio Grande do Sul - Centro de Convenções do Amazonas](https://2023.pythonbrasil.org.br/) - Adriano Margarin 
 
-Mais informações podem ser encontradas no manual do Big Kahuna - [https://manual-do-big-kahuna.readthedocs.org/en/latest/](https://manual-do-big-kahuna.readthedocs.org/en/latest/)
+Mais informações sobre as edições passadas, como quantidade de inscritos e palestrantes você encontra no [Manual do Big Kahuna](https://manual.pythonbrasil.org.br/)
 
 ## Vídeos das conferências passadas
 
 - [II Pycon Brasil](https://www.youtube.com/user/ericoandrei/videos)
 - [Pycon Brasil 2008](https://www.youtube.com/user/opobre/videos)
-- [Python Brasil 2010](https://www.youtube.com/watch?v=iuKjxeHLVOU&list=PLqjh1U8eZaP5Qd-IXAxhSXoO6MXZjfP_b)
-- [Python Brasil 2011](https://www.youtube.com/watch?v=kMwZpxm_Pac&list=PLqjh1U8eZaP4GVDc2sB-nbZdim13rUU74)
-- [Python Brasil 2011](https://www.youtube.com/watch?v=oj3l-VuIIVw&list=PLF6D4A34C424514D3)
-- [Python Brasil 2013](https://www.youtube.com/watch?v=FnZTQGKG7dA&list=PLqjh1U8eZaP6TM0tCdLVeiB0LTBkaEBai)
-- [Plone Conference 2013](https://www.youtube.com/watch?v=4x_vjgKPyhA&list=PLqjh1U8eZaP4QiTZlx4XFKIannYcMr_am)
+- [Python Brasil 2010 em diante](https://www.youtube.com/@pythonbrasiloficial/playlists)
