@@ -3,7 +3,6 @@
 ```{toctree}
 :hidden:
 
-<!-- historia -->
 associacao
 estatuto
 integrantes-da-associacao

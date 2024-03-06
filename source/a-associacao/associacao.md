@@ -2,7 +2,7 @@
 
 ## Fundadores
 
-![Fundação da APyB](/geral/images/fundadores-apyb.jpg)
+![Fundação da APyB](/a-associacao/images/fundadores-apyb.jpg)
 
 De pé (esquerda para direita):
 
