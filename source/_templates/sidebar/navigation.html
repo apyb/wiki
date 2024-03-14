@@ -1,11 +1,15 @@
-<div class="sidebar-tree">
+<div class="sidebar-tree"">
   {{ furo_navigation_tree }}
-  <p class="caption" role="heading">
-    <span class="caption-text">
-      Encontrou algum erro
-      <br>ou tem alguma sugestão?
-    </span>
-  </p>
-  <a href="{{ github_issues_url(root_doc, pagename, page_source_suffix) }}" style="color: #ff4e1b" target="blank" class="reference">Abra uma <i>issue</i> no Github</a>
+  <p class=" caption" role="heading">
 
+  <span class="caption-text" style="align-self: center">
+    Encontrou algum erro
+    <br>ou tem alguma sugestão?
+  </span>
+  </p>
+  <section style="display: flex; align-items: center; padding: 4px; border-radius: 10px; border:1px solid #81868d;">
+    <img style="width: 24px; height: 24px;" src="../../_static/github-mark-white.svg" alt="Github logo">
+    <a href="{{ github_issues_url(root_doc, pagename, page_source_suffix) }}" style="color: #fff" target="blank"
+      class="reference">Abra uma <i>issue</i> no Github</a>
+  </section>
 </div>
