@@ -9,7 +9,7 @@ A Associação Python Brasil (APyB) é uma organização sem fins lucrativos, fo
 Boas vindas ao nosso site! Aqui, você encontrará informações sobre a associação, eventos, guias e informações sobre a infraestrutura da APyB.
 
 ## Para saber mais sobre a APyB
-- [](/associacos/associe-se)
+- [](/associados/associe-se)
 - [](/apyb/premio-dorneles-tremea-jean-ferri)
 - [](/apyb/fundo-inclusão)
 - [](/apyb/faq)
