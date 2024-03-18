@@ -14,7 +14,7 @@ Boas vindas ao nosso site! Aqui, você encontrará informações sobre a associa
 - [](/apyb/fundo-inclusão)
 - [](/apyb/faq)
 
-## Para associados
+## Para pessoas associadas
 - [Como organizar eventos usando a infraestrutura da APyB?](/associados/guias/como-organizar-eventos)
 - [Guia para organização da Python Brasil](https://manual.pythonbrasil.org.br)
 
