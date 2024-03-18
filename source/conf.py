@@ -23,7 +23,7 @@ import pytz
 # -- Project information -----------------------------------------------------
 
 project = 'APyB'
-copyright = '2024, APyB'
+copyright = 'APyB, 2024'
 author = 'Associação Python Brasil'
 html_baseurl = "https://apyb.python.org.br"
 
