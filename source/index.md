@@ -18,7 +18,7 @@ Boas vindas ao nosso site! Aqui, você encontrará informações sobre a associa
 - [Como organizar eventos usando a infraestrutura da APyB?](/associados/guias/como-organizar-eventos)
 - [Guia para organização da Python Brasil](https://manual.pythonbrasil.org.br)
 
-## Para direção e conselho
+## Para Diretoria e Conselhos (Fiscal e Deliberativo)
 - [Domínios mantidos pela APyB](/infraestrutura/domínios.md)
 - [Repositórios ativos ativos nas organizações /apyb e /pythonbrasil](/infraestrutura/repositórios.md)
 - [Como utilizar o cofre de senhas da APyB?](/infraestrutura/cofre.md)
