@@ -14,6 +14,5 @@ Além das Assembleias Gerais ordinárias que acontecem anualmente, a associaçã
 
 ```{toctree}
 :maxdepth: 1
-
 2022
 ```

@@ -4,28 +4,59 @@ hide-toc: true
 
 # Associação Python Brasil
 
-Boas vindas a wiki da Associação Python Brasil.
+A Associação Python Brasil (APyB) é uma organização sem fins lucrativos, formada em abril de 2007, com o objetivo de apoiar as comunidades relacionadas à linguagem Python e suas tecnologias derivadas no Brasil.
 
-**Para associados**
-- [Como organizar eventos usando a infraestrutura da APyB](/guias/como-organizar-eventos)
+Boas vindas ao nosso site! Aqui, você encontrará informações sobre a associação, eventos, guias e informações sobre a infraestrutura da APyB.
+
+## Para saber mais sobre a APyB
+- [](/associados/associe-se)
+- [](/apyb/premio-dorneles-tremea-jean-ferri)
+- [](/apyb/fundo-inclusão)
+- [](/apyb/faq)
+
+## Para pessoas associadas
+- [Como organizar eventos usando a infraestrutura da APyB?](/associados/guias/como-organizar-eventos)
 - [Guia para organização da Python Brasil](https://manual.pythonbrasil.org.br)
 
-**Para direção e conselho**
-...
-
+## Para Diretoria e Conselhos (Fiscal e Deliberativo)
+- [Domínios mantidos pela APyB](/infraestrutura/domínios.md)
+- [Repositórios ativos ativos nas organizações /apyb e /pythonbrasil](/infraestrutura/repositórios.md)
+- [Como utilizar o cofre de senhas da APyB?](/infraestrutura/cofre.md)
 
 ```{toctree}
 :maxdepth: 1
 :caption: Associados
 :hidden:
 
-guias/index
-assembleia/index
+associados/associe-se
+associados/guias/index
+associados/assembleia/index
 ```
 
 ```{toctree}
 :caption: APyB
 :hidden:
 
-infraestrutura/index
+a-associacao/index
+apyb/premio-dorneles-tremea-jean-ferri
+apyb/fundo-inclusão
+apyb/eventos
+apyb/faq
+```
+
+```{toctree}
+:caption: Python Brasil
+:hidden:
+
+pythonbrasil/o-que-é
+pythonbrasil/cdc
+```
+
+```{toctree}
+:caption: Infraestrutura
+:hidden:
+
+infraestrutura/domínios
+infraestrutura/repositórios
+infraestrutura/cofre
 ```
