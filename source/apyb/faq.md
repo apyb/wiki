@@ -9,7 +9,7 @@ Ela existe desde 2007 e tem sede em Caxias do Sul, RS.
 
 ### Quem compõe a APyB atualmente?
 
-A APyB é composta por uma diretoria, formada por uma presidente, diretora de tecnologia, diretora de marketing e diretora financeira, além de um conselho fiscal e deliberativo, cada um composto por 3 membros fixos e 1 suplente. Para maiores detalhes sobre a chapa atual, acesse a lista de [integrantes da diretoria e dos conselhos](../a-associacao/integrantes-da-associacao.md). 
+A APyB é composta por uma diretoria, formada por uma presidente, diretora de tecnologia, diretora de marketing e diretora financeira, além de um conselho fiscal e deliberativo, cada um composto por 3 membros fixos e 1 suplente. Para maiores detalhes sobre a chapa atual, acesse a lista das [pessoas integrantes da diretoria e dos conselhos](../a-associacao/integrantes-da-associacao.md). 
 
 ### O que a APyB faz?
 
