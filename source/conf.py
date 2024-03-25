@@ -3,6 +3,7 @@ import sys
 from datetime import datetime
 
 import pytz
+
 # Configuration file for the Sphinx documentation builder.
 #
 # This file only contains a selection of the most common options. For a full
@@ -22,9 +23,9 @@ import pytz
 
 # -- Project information -----------------------------------------------------
 
-project = 'APyB'
-copyright = 'APyB, 2024'
-author = 'Associação Python Brasil'
+project = "APyB"
+copyright = "APyB, 2024"
+author = "Associação Python Brasil"
 html_baseurl = "https://apyb.python.org.br"
 
 
@@ -38,12 +39,17 @@ sys.path.append(os.path.abspath("./_ext"))
 
 extensions = [
     "sphinx.ext.githubpages",
+    "sphinx_reredirects",
     "myst_parser",
     # Local extensions
     "github_issues_url",
     "github_repos",
     "template",
 ]
+
+redirects = {
+    "guias/como-organizar-eventos/": "https://apyb.python.org.br/associados/guias/como-organizar-eventos/",
+}
 
 myst_enable_extensions = [
     "colon_fence",
@@ -54,7 +60,7 @@ templates_context = {
 }
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = ["_templates"]
 
 new_issue_title = "Melhoria na página: {document_path}"
 new_issue_body = """
@@ -73,14 +79,14 @@ Arquivo: {page_source_url}
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'pt_BR'
+language = "pt_BR"
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
-html_extra_path = [os.path.join(os.path.abspath('.'), '_files')]
+html_extra_path = [os.path.join(os.path.abspath("."), "_files")]
 
 
 # -- Options for HTML output -------------------------------------------------
