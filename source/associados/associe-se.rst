@@ -34,4 +34,4 @@ Efetivo
 Ja é associado?
 ------
 
-Confira a `lista de associados <http://associados.python.org.br/members/list/>`_ ou `Autentique-se <http://associados.python.org.br/login/>`_ para verificar seu status.
+Confira a `lista de associados <http://associados.python.org.br/members/list/>`_ ou `Autentique-se <https://billing.stripe.com/p/login/test_dR6g1v6Fa3cadG0dQQ>`_ para verificar seu status.
