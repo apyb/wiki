@@ -1,6 +1,6 @@
 # Prêmio Dorneles Treméa|Jean Ferri
 
-**O Prêmio Dorneles Treméa/Jean Ferri é concedido ao membro ou membros da comunidade Python brasileira que mantêm vivo o espírito de colaboração, empreendedorismo e entrega à comunidade.**
+**O Prêmio Dorneles Treméa/Jean Ferri é concedido a pessoa membra ou as pessoas membras da comunidade Python brasileira que mantêm vivo o espírito de colaboração, empreendedorismo e entrega à comunidade.**
 
 ## O Prêmio
 
