@@ -6,8 +6,8 @@ Você é uma pessoa apaixonada por Python? Quer fazer parte da APyB? Você pode 
 .. raw:: html
 
     <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-    <stripe-pricing-table pricing-table-id="prctbl_1P6iQEP5zaoo6rIQQLXGfIIk"
-    publishable-key="pk_test_51OwCAYP5zaoo6rIQJUN0qkIWu3DWr4ZZPP8ScSLu3Fern7FkADEi7lvGt4F8Idwc0Kd9F17h2gMovHts1JH8qDVk00UGlnropw">
+    <stripe-pricing-table pricing-table-id="prctbl_1Pa1WVP5zaoo6rIQDDtwCe3Y"
+    publishable-key="pk_live_51OwCAYP5zaoo6rIQiUQGg9QlSElV1qIoWh0HKP5S4xuYXK5Sq7B1JPiREVsKPlYQflQE6GwFXvIUKvYCOMnUm2G000JPIHgs9f">
     </stripe-pricing-table>
 
 
@@ -34,4 +34,4 @@ Efetivo
 Ja é associado?
 ------
 
-Confira a `lista de associados <http://associados.python.org.br/members/list/>`_ ou `Autentique-se <https://billing.stripe.com/p/login/test_dR6g1v6Fa3cadG0dQQ>`_ para verificar seu status.
+Acompanhe o status da sua membresia no `portal de associados <http://billing.stripe.com/p/login/9AQbLt6tactWdTWdQQ>`_ e não esqueça de acompanhar as novidades da associação nos :doc:`../a-associacao/comunicacao`.
