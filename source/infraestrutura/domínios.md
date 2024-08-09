@@ -18,7 +18,7 @@ A APyB mantém uma série de domínios e subdomínios relacionados à Associaç�
 Exemplos de alguns dos subdomínios:
 
 - [eventos.python.org.br](https://eventos.python.org.br): Lista de eventos Python espalhados pelo Brasil
-- [talks.python.org.br](https://talks.python.org.br): Servidor do pretalx mantido pela comunidade Python brasileira
+- [talks.python.org.br](https://talks.python.org.br): Servidor da plataforma de submissão de palestras Pretalx mantido pela comunidade Python brasileira.
 - [2023.pythonbrasil.org.br](https://2023.pythonbrasil.org.br): Edição 2023 da Python Brasil
 
 ## Como solicitar um novo registro ou domínio
