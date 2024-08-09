@@ -5,7 +5,7 @@ hide-toc: true
 # Guias
 
 ```{toctree}
-:maxdepth: 1
+:maxdepth: 2
 
 como-organizar-eventos
 ```

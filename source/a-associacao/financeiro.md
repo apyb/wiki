@@ -1,7 +1,8 @@
 # Financeiro
 
-Extrato financeiro [público](https://drive.google.com/open?id=0B_CQOAVUY5bRQ2pjbzVocjZMX1E) e balanço financeiro disponível em [financeiro.python.org.br](https://financeiro.python.org.br/apyb/balance_sheet/)
+Prezamos pela transparência e colaboração da comunidade, e pensando nisso, disponibilizamos de forma aberta os nossos extratos bancários e o nosso balanço financeiro.
 
-Não é necessário o login nem uma conta no Google para visualização o extrato e o balanço financeiro. 
+- Extratos bancários [públicos](https://drive.google.com/open?id=0B_CQOAVUY5bRQ2pjbzVocjZMX1E)
+- Balanço financeiro disponível em [financeiro.python.org.br](https://financeiro.python.org.br/apyb/balance_sheet/)
 
-Qualquer dúvida, entre em contato com a diretoria da APyB através do e-mail diretoria@ (python.org.br).
+> Qualquer dúvida, entre em contato com a diretoria da APyB através do e-mail: `diretoria[at]python.org.br`.
