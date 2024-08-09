@@ -1,0 +1,17 @@
+body {
+  --image-background-primary: url('../bg-light.jpg');
+}
+
+body[data-theme=dark] {
+  --image-background-primary: url('../bg-dark.jpg');
+}
+
+.content {
+  background: var(--color-background-primary);
+}
+.main {
+  background: var(--image-background-primary) repeat fixed;
+}
+.sidebar-logo {
+  padding: 1.5rem 0;
+}
