@@ -34,4 +34,8 @@ Efetivo
 Ja é associado?
 ------
 
+.. important::
+
+    O `portal de associados da Stripe <http://billing.stripe.com/p/login/9AQbLt6tactWdTWdQQ>`_ só funciona depois que você fizer a assinatura utilizando o novo sistema da associação. Caso você já tenha se associado utilizando o nosso sistema antigo, você pode checar o status da sua membresia no `antigo portal de associados <https://associacao.python.org.br/>`_. Mais informações sobre a mudança de sistema, veja o nosso `comunicado oficial <https://github.com/apyb/comunidade/discussions/139>`_.
+
 Acompanhe o status da sua membresia no `portal de associados <http://billing.stripe.com/p/login/9AQbLt6tactWdTWdQQ>`_ e não esqueça de acompanhar as novidades da associação nos :doc:`../a-associacao/comunicacao`.
