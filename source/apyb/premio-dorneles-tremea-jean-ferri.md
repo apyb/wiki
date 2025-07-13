@@ -1,4 +1,4 @@
-# Prêmio Dorneles Treméa|Jean Ferri
+# Prêmio Dorneles Treméa | Jean Ferri
 
 **O Prêmio Dorneles Treméa/Jean Ferri é concedido anualmente à pessoa membra ou às pessoas membras da comunidade Python brasileira que mantêm vivo o espírito de colaboração, empreendedorismo e entrega à comunidade. As indicações são feitas pela comunidade e a Cerimônia de Entrega ocorre durante a Python Brasil.**
 
@@ -25,6 +25,13 @@ A entrega do Prêmio Dorneles Treméa|Jean Ferri é realizada anualmente durante
 
 ## Homenageados
 
+### 2024 - Python Brasil 2024 (Rio de Janeiro)
+
+  * Juliany Raiol
+  * Marco Rougeth
+
+![Premiadas na Python Brasil 2024](images/premio/pybr2024.png)
+
 ### 2023 - Python Brasil 2023 (Caxias do Sul)
 
   * Alynne Ferreira
@@ -33,6 +40,9 @@ A entrega do Prêmio Dorneles Treméa|Jean Ferri é realizada anualmente durante
   * Juliana Karoline
   * Rafael Fontenelle
   * Ryllari Marques
+
+![Premiadas na Python Brasil 2023](images/premio/pybr2023.jpg)
+
 
 ### 2022 - Python Brasil 2022 (Manaus)
 
