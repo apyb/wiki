@@ -2,7 +2,7 @@
 
 Este manual é um documento vivo que tem como objetivos (1) explicar como você pode usar a APyB para aliviar as questões burocráticas do seu evento e (2) simplificar o processo com base em feedbacks e aprendizados.
 
-Você pode contribuir diretamente para a evolução do manual enviando suas dúvidas, sugestões e observações para APyB-condir@googlegroups.com.
+Você pode contribuir diretamente para a evolução do manual enviando suas dúvidas, sugestões e observações para `APyB-condir@googlegroups.com` ou `diretoria@python.org.br`.
 
 ## O que é preciso para usar a infraestrutura da APyB?
 
@@ -11,6 +11,7 @@ Os critérios para usar a infraestrutura da APyB são simples:
 1. O organizador e responsável pelo evento precisa ser membro da APyB.
 2. O evento deve estar alinhado com a missão da APyB, que é fomentar Python no Brasil.
 3. O evento precisa ser sem fins lucrativos.
+4. O evento deve possuir um Código de Conduta, caso ele não tenha um, você pode usar o [código de conduta da Python Brasil como base](https://apyb.python.org.br/pythonbrasil/cdc/).
 
 ## Como funciona?
 
