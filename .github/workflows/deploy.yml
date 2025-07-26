@@ -17,7 +17,7 @@ jobs:
       - uses: actions/setup-python@v5
       - name: Install dependencies
         run: |
-          python -m pip install poetry
-          poetry install --no-root
+          python -m pip install poetry==1.8.5
+          poetry install --no-dev
       - name: Deploy
         run: poetry run make deploy
