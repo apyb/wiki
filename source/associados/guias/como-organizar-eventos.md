@@ -60,9 +60,9 @@ Ao solicitar movimentação financeira ou recebimento de recursos do exterior, t
     <br>100369
 
 * - Endereço
-  - Rua Andrea Viero 215
-    <br>Marechal Floriano, Caxias do Sul, RS
-    <br>95.013-060
+  - Rua José Tovasi, 417
+    <br>Bairro Cruzeiro, Caxias do Sul, RS
+    <br>95.072-300
 
 * - Banco
   - 001 Banco do Brasil
