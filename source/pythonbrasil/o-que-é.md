@@ -10,29 +10,29 @@ Desenvolvedores de software freelancers, de startups e grandes empresas, ativist
 
 ## Quem já palestrou nas Python Brasil?
 
-- Alan Runyan, Plone co-founder and Enfold president
-- Alexander Limi, Firefox UX Lead at Mozilla
-- Bruce Eckel, Thinking in Java and Thinking in C++ author
+- Alan Runyan, cofundador do Plone e presidente da Enfold
+- Alexander Limi, líder de UX do Firefox na Mozilla
+- Bruce Eckel, autor de Thinking in Java e Thinking in C++
 - Collin Winter, Google
-- Dorneles Tremea, Plone developer
-- Facundo Batista, Canonical technical lead
-- Gustavo Niemeyer, Canonical technical lead
-- Jacob Kaplan-Moss, Django co-founder
+- Dorneles Tremea, desenvolvedor Plone
+- Facundo Batista, líder técnico da Canonical
+- Gustavo Niemeyer, líder técnico da Canonical
+- Jacob Kaplan-Moss, cofundador do Django
 - Jim Fulton, Zope Corp.
 - Kenneth Rohde Christiansen, CTO INdT
-- Maciej Fijalkowski, PyPy core developer
-- Steve Holden, Python Software Foundation chair
-- Wesley Chun, Google developer advocate
-- Paul Everitt, Plone core developer and Pyramid core developer
-- Paul Hildebrandt, Senior Engineer at Walt Disney Studios
-- Daniel Greenfeld and Audrey Roy, Two Scoops of Django authors
-- Fernando Perez, Creator of IPython Notebook
-- José Valim, Creator of Elixir programming language
-- Lynn Root, Software developer of Spotify and Pyladies SF founder
-- Alex Gaynor, Software engineer of OpenStack
-- Bryan Van de Ven, software engineer at Continuum Analytics, and is the project lead for the Open Source Bokeh visualization system.
-- David Beasley, Author of the Python Essential Reference and Python Cookbook.
-- Naomi Ceder, Author of Quick Python and PSF Board member.
+- Maciej Fijalkowski, core developer do PyPy
+- Steve Holden, presidente da Python Software Foundation
+- Wesley Chun, developer advocate do Google
+- Paul Everitt, core developer do Plone e core developer do Pyramid
+- Paul Hildebrandt, engenheiro sênior da Walt Disney Studios
+- Daniel Greenfeld e Audrey Roy, autores de Two Scoops of Django
+- Fernando Perez, criador do IPython Notebook
+- José Valim, criador da linguagem de programação Elixir
+- Lynn Root, desenvolvedora de software do Spotify e fundadora do Pyladies SF
+- Alex Gaynor, engenheiro de software do OpenStack
+- Bryan Van de Ven, engenheiro de software na Continuum Analytics e líder do projeto Open Source Bokeh
+- David Beasley, autor de Python Essential Reference e Python Cookbook
+- Naomi Ceder, autora de Quick Python e membro do conselho da Python Software Foundation
 
 ## Histórico das Python Brasil
 
@@ -57,7 +57,7 @@ Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoa
 - 2015 - [São Paulo - São José dos Campos - Novotel](https://manual.pythonbrasil.org.br/introducao/historia/pythonbrasil11.html) - Renzo Nuccitelli
 - 2016 - [Santa Catarina - Florianópolis - Centro de Convenções CentroSul](https://manual.pythonbrasil.org.br/introducao/historia/pythonbrasil12.html) - Mário Sérgio Oliveira de Queiroz
 - 2017 - [Belo Horizonte - Minas Gerais - Dayrell Hotel](https://2017.pythonbrasil.org.br/) - Igor Santos
-- 2018 - [Natal - Rio Grande do Norte - Holiday Inn Natal Hotel](https://manual.pythonbrasil.org.br/introducao/historia/pythonbrasil14.html) - Italo Rossi
+- 2018 - [Natal - Rio Grande do Norte - Holiday Inn Natal Hotel](https://manual.pythonbrasil.org.br/introducao/historia/pythonbrasil14.html) - Danilo Shiga
 - 2019 - [Ribeirão Preto - São Paulo - Centro de Convenções Ribeirão Preto](https://2019.pythonbrasil.org.br/) - 
 - 2020 - [Edição Online](https://2020.pythonbrasil.org.br/) - Ana Dulce 
 - 2021 - [Edição Online](https://2021.pythonbrasil.org.br/) - Alynne Ferreira 
