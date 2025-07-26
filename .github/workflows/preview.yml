@@ -22,7 +22,7 @@ jobs:
             - name: Install dependencies and build
               if: github.event.action != 'closed'
               run: |
-                python -m pip install poetry<2.0
+                python -m pip install poetry==1.8.5
                 poetry install --no-dev
                 poetry run make html
 
