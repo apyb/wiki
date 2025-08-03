@@ -192,7 +192,7 @@ Somente após esse ciclo o dinheiro estará disponível para o evento.
 
 ## Como solicito a realização de um pagamento?
 
-Pagamentos devem ser **preferencialmente** via boleto e você precisa:
+Pagamentos devem ser **preferencialmente** via Pix e você precisa:
 
 1. Que seu evento tenha saldo disponível na APyB.
 2. Acessar o [formulário de solicitação de pagamentos](https://www.ultradox.com/app/apyb-solicitacao-pagamento) preenchendo adequadamente os dados e anexando a nota fiscal.
@@ -206,7 +206,7 @@ Todo pagamento necessita de uma nota fiscal emitida pelo Fornecedor do seu event
 
 A realização do pagamento pode levar até 3 dias úteis, então atenção aos vencimentos.
 
-Pagamentos devem ser **preferencialmente via boleto bancário**.
+Pagamentos devem ser **preferencialmente via Pix**.
 
 Transferências bancárias são possíveis, mas levam tempo. O banco complica exigindo que a APyB (1) cadastre a conta do favorecido no internet banking, (2) envie um documento assinado ao gerente solicitando liberação, para que (3) ele libere a conta manualmente e (4) só então podemos realizar a transferência.
 
