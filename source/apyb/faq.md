@@ -9,13 +9,13 @@ Ela existe desde 2007 e tem sede em Caxias do Sul, RS.
 
 ### Quem compõe a APyB atualmente?
 
-A APyB é composta por uma diretoria, formada por uma presidente, diretora de tecnologia, diretora de marketing e diretora financeira, além de um conselho fiscal e deliberativo, cada um composto por 3 membros fixos e 1 suplente. Para maiores detalhes sobre a chapa atual, acesse a lista das [pessoas integrantes da diretoria e dos conselhos](../a-associacao/integrantes-da-associacao.md). 
+A APyB é composta por uma diretoria, formada por uma presidente, diretora de tecnologia, diretora de marketing e diretora financeira, além de um conselho fiscal e deliberativo, cada um composto por 3 membros fixos e 1 suplente. Para maiores detalhes sobre a chapa atual, acesse a lista das [pessoas integrantes da diretoria e dos conselhos](../a-associacao/integrantes-da-associacao.md).
 
 ### O que a APyB faz?
 
 Basicamente, a APyB tem como objetivo apoiar e divulgar os esforços feitos pela comunidade.
 
-Além disso, dada a sua estrutura e a complexidade burocrática para realizar um evento, a APyB tem servido como pilar para diversos eventos na comunidade, incluindo o evento nacional (Python Brasil), eventos locais/regionais (Python Sul, Caipyra, Python SE, Pycon Amazônia, Python Nordeste, etc) e Django Girls. Assim, toda a parte de recepção de patrocínios, pagamento de fornecedores e emissão de notas fiscais faz parte do trabalho da APyB.
+Além disso, dada a sua estrutura e a complexidade burocrática para realizar um evento, a APyB tem servido como pilar para diversos eventos na comunidade, incluindo o evento nacional (Python Brasil), eventos locais/regionais (Python Sul, Caipyra, Python Sudeste, Python Norte, Python Cerrado, Python Nordeste, etc) e Django Girls. Assim, toda a parte de recepção de patrocínios, pagamento de fornecedores e emissão de notas fiscais faz parte do trabalho da APyB.
 
 ### O que a APyB não faz?
 
