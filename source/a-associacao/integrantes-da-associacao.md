@@ -19,7 +19,7 @@
 
 - Marco Rougeth
 - Bruno Messias
-- Samuel Campaio
+- Samuel Sampaio
 
 ### Suplentes
 - Murilo Viana
