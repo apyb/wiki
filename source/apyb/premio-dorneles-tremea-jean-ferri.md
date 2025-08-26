@@ -25,14 +25,14 @@ A entrega do Prêmio Dorneles Treméa|Jean Ferri é realizada anualmente durante
 
 ## Homenageados
 
-### 2024 - Python Brasil 2024 (Rio de Janeiro)
+### 2024 - Python Brasil 2024 (Rio de Janeiro - RJ)
 
   * Juliany Raiol
   * Marco Rougeth
 
 ![Premiadas na Python Brasil 2024](images/premio/pybr2024.png)
 
-### 2023 - Python Brasil 2023 (Caxias do Sul)
+### 2023 - Python Brasil 2023 (Caxias do Sul - RS)
 
   * Alynne Ferreira
   * Ana Cecília Vieira
@@ -44,7 +44,7 @@ A entrega do Prêmio Dorneles Treméa|Jean Ferri é realizada anualmente durante
 ![Premiadas na Python Brasil 2023](images/premio/pybr2023.jpg)
 
 
-### 2022 - Python Brasil 2022 (Manaus)
+### 2022 - Python Brasil 2022 (Manaus - AM)
 
   * Bianca Rosa
   * Lidiane Monteiro
@@ -52,13 +52,13 @@ A entrega do Prêmio Dorneles Treméa|Jean Ferri é realizada anualmente durante
 
 ![Premiadas na Python Brasil 2022](images/premio/pybr2022.jpg)
 
-### 2021 - PythonBrasil 18 (Edição Online)
+### 2021 - Python Brasil 2021 (Edição Online)
 
   * Eduardo Mendes (Dunossauro)
   * Jessica Temporal
   * Letícia Portella
 
-### 2020 - PythonBrasil 16 (Edição Online)
+### 2020 - Python Brasil 2020 (Edição Online)
 
   * Débora Azevedo
   * Felipe de Morais
@@ -66,48 +66,48 @@ A entrega do Prêmio Dorneles Treméa|Jean Ferri é realizada anualmente durante
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Esk_E1FxbyY" frameborder="0" allowfullscreen></iframe>
 
-### 2019 - PythonBrasil 15 (Ribeirão Preto)
+### 2019 - Python Brasil 2019 (Ribeirão Preto - SP)
 
   * Pyladies São Paulo
   * Álvaro Turicas Justen
   * Leonardo Rochael
 
-### 2018 - PythonBrasil 14 (Natal)
+### 2018 - PythonBrasil 14 (Natal - RN)
 
   * Filipe Cifali
   * Humberto Rocha
   * Rudá Porto Filgueiras
 
-### 2017 - PythonBrasil 13 (Belo Horizonte)
+### 2017 - PythonBrasil 13 (Belo Horizonte - MG)
 
   * Jean Rodrigo Ferri
   * Bruno Rocha
 
-### 2016 - PythonBrasil 12 (Florianópolis)
+### 2016 - PythonBrasil 12 (Florianópolis - SC)
 
   * Paula Grangeiro
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/LToaF3_cgtk" frameborder="0" allowfullscreen></iframe>
 
-### 2015 - PythonBrasil 11 (São José dos Campos)
+### 2015 - PythonBrasil 11 (São José dos Campos - SP)
 
   * Tânia Andrea
 
-### 2014 - PythonBrasil 10 (Porto de Galinhas)
+### 2014 - PythonBrasil 10 (Porto de Galinhas, Ipojuca - PE)
 
   * Osvaldo Santana
 
-### 2013 - PythonBrasil 9 (Brasília)
+### 2013 - PythonBrasil 9 (Brasília - DF)
 
   * Fernando Massanori
   * Henrique Bastos
 
-### 2012 - PythonBrasil 8 (Rio de Janeiro)
+### 2012 - PythonBrasil 8 (Rio de Janeiro - RJ)
 
   * Érico Andrei
   * Marcel Caraciolo
 
-### 2011 - PythonBrasil 7 (São Paulo)
+### 2011 - PythonBrasil 7 (São Paulo - SP)
 
   * Luciano Ramalho
   * Rodrigo Senra
