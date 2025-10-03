@@ -59,4 +59,5 @@ pythonbrasil/cdc
 infraestrutura/domínios
 infraestrutura/repositórios
 infraestrutura/cofre
+infraestrutura/backup-associados
 ```
