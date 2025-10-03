@@ -34,8 +34,13 @@ Efetivo
 Ja é associado?
 ------
 
+Importante alguns pontos sobre o nosso sistema de gestão de associados:
+
+1. O sistema de gestão de associados é terceirizado e gerenciado pela Stripe.
+2. O `portal de associados da Stripe <http://billing.stripe.com/p/login/9AQbLt6tactWdTWdQQ>`_ é o local onde você pode **gerenciar** sua assinatura, **atualizar** seus dados de pagamento e ver o **histórico** de pagamentos. O acesso ao portal é realizado utilizando o **e-mail que você usou para fazer a assinatura**, por isso não esqueça de usar o mesmo e-mail sempre!
+3. Ao acessar o portal, **se você informou um e-mail cadastrado, você receberá um e-mail com o link de acesso ao portal**. Caso você não receba o e-mail, verifique sua caixa de spam ou lixo eletrônico, pois o e-mail pode ter sido direcionado para lá, ou você pode ter digitado o e-mail errado.
+4. Não esqueça de acompanhar as novidades da associação nos :doc:`../a-associacao/comunicacao`.
+
 .. important::
 
-    O `portal de associados da Stripe <http://billing.stripe.com/p/login/9AQbLt6tactWdTWdQQ>`_ só funciona depois que você fizer a assinatura utilizando o novo sistema da associação. Caso você já tenha se associado utilizando o nosso sistema antigo, você pode checar o status da sua membresia no `antigo portal de associados <https://associacao.python.org.br/>`_. Mais informações sobre a mudança de sistema, veja o nosso `comunicado oficial <https://github.com/apyb/comunidade/discussions/139>`_.
-
-Acompanhe o status da sua membresia no `portal de associados <http://billing.stripe.com/p/login/9AQbLt6tactWdTWdQQ>`_ e não esqueça de acompanhar as novidades da associação nos :doc:`../a-associacao/comunicacao`.
+    Caso você precise alterar o seu e-mail cadastrado, ou não tenha recebido o e-mail de acesso ao portal, ou tenha dificuldades para acessá-lo, entre em contato conosco pelo e-mail `diretoria[at]python.org.br`.
