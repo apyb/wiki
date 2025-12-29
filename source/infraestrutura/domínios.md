@@ -4,29 +4,41 @@
 
 A APyB mantém uma série de domínios e subdomínios relacionados à Associação, à Python Brasil e eventos da comunidade e outras iniciativas.
 
-
 ## Domínios mantidos pela APyB
 
-- [python.org.br](https://python.org.br)
-- [sudeste.python.org.br](https://sudeste.python.org.br/)
-- [sul.python.org.br](https://sul.python.org.br/)
+### Domínios que apenas a APyB mantém
 
-- [pythonbrasil.org.br](https://pythonbrasil.org.br)
-- [pythonbrasil.com.br](https://pythonbrasil.com.br)
-- [pythonnorte.org](https://pythonnorte.org)
-- [pythonnordeste.org](https://pythonnordeste.org)
+```{note}
+Os domínios abaixo são gerenciados diretamente pela APyB via `Cloudflare`. No caso dos subdomínios dos eventos regionais, também configuramos regras de redirecionamento para os sites de anos anteriores, garantindo que os links antigos continuem funcionando.
+```
+
+- [python.org.br](https://python.org.br)
+- [sudeste.python.org.br](https://sudeste.python.org.br/): Site do evento regional Python Sudeste
+- [sul.python.org.br](https://sul.python.org.br/): Site do evento regional Python Sul
+- [eventos.python.org.br](https://eventos.python.org.br): Lista de eventos Python espalhados pelo Brasil
+- [talks.python.org.br](https://talks.python.org.br): Servidor da plataforma de submissão de palestras Pretalx mantido pela comunidade Python brasileira.
+
+### Domínios que a APyB mantém em parceria com outras organizações
+
+```{note}
+Os domínios abaixo, são gerenciados pelo `Cloudflare`, que permite que possamos adicionar grupos de administradores para cada domínio, facilitando a gestão compartilhada com as comunidades organizadoras dos eventos. Dessa forma, a APyB não precisa ser a única responsável por gerenciar os domínios.
+```
+
+- [pythonbrasil.org.br](https://pythonbrasil.org.br): Site oficial da conferência Python Brasil, mantido em parceria com a comunidade organizadora do evento.
+- [pythonbrasil.com.br](https://pythonbrasil.com.br): Redireciona para o site oficial da conferência Python Brasil.
+- [pythonnorte.org](https://pythonnorte.org): Site do evento regional Python Norte, mantido em parceria com a comunidade organizadora do evento.
+- [pythonnordeste.org](https://pythonnordeste.org): Site do evento regional Python Nordeste, mantido em parceria com a comunidade organizadora do evento.
+
+### Domínios comprados pela APyB a partir de solicitações da comunidade
+
+```{note}
+Os domínios abaixo foram adquiridos pela APyB via `RegistroBR`, a partir de solicitações feitas por membros da comunidade Python brasileira. O pagamento é realizado trianualmente, a partir de doações feitas à APyB especificamente para este fim.
+```
 
 - [django.org.br](https://django.org.br)
 - [odoobrasil.org.br](https://odoobrasil.org.br)
 - [plone.org.br](https://plone.org.br)
 - [portalbrasil.org.br](https://portalbrasil.org.br)
-
-Exemplos de alguns dos subdomínios:
-
-- [eventos.python.org.br](https://eventos.python.org.br): Lista de eventos Python espalhados pelo Brasil
-- [talks.python.org.br](https://talks.python.org.br): Servidor da plataforma de submissão de palestras Pretalx mantido pela comunidade Python brasileira.
-- [2023.pythonbrasil.org.br](https://2023.pythonbrasil.org.br): Edição 2023 da Python Brasil
-- [2024.pythonsudeste.org.br](https://2024.pythonsudeste.org.br): Edição 2024 da Python Sudeste
 
 ## Como solicitar um novo registro ou domínio
 
