@@ -22,6 +22,9 @@ Boas vindas ao nosso site! Aqui, você encontrará informações sobre a associa
 - [Domínios mantidos pela APyB](/infraestrutura/domínios.md)
 - [Repositórios ativos ativos nas organizações /apyb e /pythonbrasil](/infraestrutura/repositórios.md)
 - [Como utilizar o cofre de senhas da APyB?](/infraestrutura/cofre.md)
+- [Como gerenciar pagamentos com Stripe?](/infraestrutura/stripe.md)
+- [Como acessar o backup dos dados dos associados?](/infraestrutura/backup-associados.md)
+- [Como realizar a Assembleia Online?](/infraestrutura/assembleia-online.md)
 
 ```{toctree}
 :maxdepth: 1
@@ -61,4 +64,5 @@ infraestrutura/repositórios
 infraestrutura/cofre
 infraestrutura/stripe
 infraestrutura/backup-associados
+infraestrutura/assembleia-online
 ```
