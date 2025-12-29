@@ -2,7 +2,10 @@
 
 **Python Brasil** é uma conferência vibrante de Python que estimula a comunidade, o debate, propicia negócios, motiva e **conecta pessoas**.
 
-É uma conferência sem fins lucrativos mantida por voluntários com o suporte da Associação Python Brasil (APyB) e a Python Software Foundation (PSF).
+É uma conferência **sem fins lucrativos** mantida por **voluntários** com o suporte da Associação Python Brasil (APyB) e a Python Software Foundation (PSF).
+
+```{note} Para acessar o site oficial da Python Brasil, clique [aqui](https://pythonbrasil.org.br/).
+```
 
 ## Audiência
 
@@ -43,7 +46,8 @@ Em todas as edições da PythonBrasil uma pessoa da comunidade fica responsável
 
 Essa pessoa recebe, por razões históricas, o título de ‘Big Kahuna’. O ‘Big Kahuna’ é o grande chefe, o maestro da organização, se ele trabalha bem o evento é um sucesso, se ele não trabalha bem o evento não sairá direito.
 
-> Para saber mais sobre o Big Kahuna, leia o [manual do Big Kahuna](https://manual.pythonbrasil.org.br/).
+```{note} Para saber mais sobre o Big Kahuna, leia o [manual do Big Kahuna](https://manual.pythonbrasil.org.br/).
+```
 
 Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoas, e é responsabilidade de todos o sucesso da empreitada.
 
