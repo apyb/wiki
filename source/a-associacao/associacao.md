@@ -32,6 +32,10 @@ Sentados (esquerda para direita):
 - Marco André
 - Dornéles Treméa
 
+Pessoa fotógrafa:
+
+- Rafahela Bazzanella
+
 
 ## Objetivos e Metas
 
