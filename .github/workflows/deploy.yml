@@ -24,7 +24,5 @@ jobs:
       - name: Install dependencies
         run: |
           poetry install --without dev
-      - name: Baixar estatuto atualizado
-        run: curl -sSfL https://raw.githubusercontent.com/apyb/estatuto/master/README.rst -o source/a-associacao/estatuto_content.rst
-      - name: Deploy
+     - name: Deploy
         run: poetry run make deploy
