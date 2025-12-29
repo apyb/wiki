@@ -59,10 +59,10 @@ pythonbrasil/cdc
 :caption: Infraestrutura
 :hidden:
 
+infraestrutura/assembleia-online
+infraestrutura/backup-associados
+infraestrutura/cofre
 infraestrutura/domínios
 infraestrutura/repositórios
-infraestrutura/cofre
 infraestrutura/stripe
-infraestrutura/backup-associados
-infraestrutura/assembleia-online
 ```
