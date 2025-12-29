@@ -1,10 +1,5 @@
 # Estatuto
 
-O estatuto da APyB foi discutido democraticamente em nossa Assembléia de fundação em 2007 e emendado na Assembléia Geral de 2008.
+O estatuto da APyB foi criado democraticamente em nossa Assembléia de fundação em 2007, e desde então vem sendo atualizado periodicamente para refletir as necessidades e valores da associação. Ele estabelece as regras e diretrizes que regem o funcionamento da APyB, incluindo a estrutura organizacional, os direitos e deveres dos associados, e os processos para tomada de decisões.
 
-Abaixo você pode ler o estatuto completo.
-
-----
-
-```{include} estatuto_content.rst
-```
+Para mais informações sobre o conteúdo do estatuto, acesse o [repositório](https://github.com/apyb/estatuto/tree/master) do mesmo.
