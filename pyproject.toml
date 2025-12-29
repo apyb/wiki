@@ -1,26 +1,31 @@
-[tool.poetry]
+[project]
 name = "wiki"
-version = "0.1.0"
-description = ""
-authors = ["Marco Rougeth <rougeth@users.noreply.github.com>"]
+version = "0.2.0"
+requires-python = ">=3.10"
+description = "Site da Associação Python Brasil (APyB) disponível em https://apyb.python.org.br/"
+authors = [
+    {name = "Marco Rougeth", email = "rougeth@users.noreply.github.com"},
+    {name = "Maria Fernanda Souza", email = "naanadr@users.noreply.github.com"}
+]
 
-[tool.poetry.dependencies]
-python = "^3.10"
-Sphinx = "^5.1.1"
-sphinx-autobuild = "^2021.3.14"
-furo = "^2023.03.27"
-myst-parser = "^0.18.0"
-httpx = "^0.23.0"
-ghp-import = "^2.1.0"
-pytz = "^2023.2"
-sphinx-reredirects = "^0.1.3"
+dependencies = [
+    "Sphinx (>=5.1.1,<6.0.0)",
+    "sphinx-autobuild (>=2021.3.14,<2022.0.0)",
+    "furo (>=2023.03.27,<2024.0.0)",
+    "myst-parser (>=0.18.0,<0.19.0)",
+    "httpx (>=0.23.0,<0.24.0)",
+    "ghp-import (>=2.1.0,<3.0.0)",
+    "pytz (>=2023.2,<2024.0)",
+    "sphinx-reredirects (>=0.1.3,<0.2.0)"
+]
 
-[tool.poetry.dev-dependencies]
+[tool.poetry]
+package-mode = false
 
 [tool.poetry.group.dev.dependencies]
 ipython = "^8.15.0"
 ipdb = "^0.13.13"
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
