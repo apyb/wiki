@@ -25,6 +25,14 @@ A entrega do Prêmio Dorneles Treméa|Jean Ferri é realizada anualmente durante
 
 ## Homenageados
 
+### 2025 - Python Brasil 2025 (São Paulo - SP)
+
+  * Adorilson Bezerra
+  * Rafahela Bazzanella
+  * Thais Viana
+
+![Premiadas na Python Brasil 2025](images/premio/pybr2025.png)
+
 ### 2024 - Python Brasil 2024 (Rio de Janeiro - RJ)
 
   * Juliany Raiol
