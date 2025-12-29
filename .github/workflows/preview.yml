@@ -15,7 +15,7 @@ concurrency:
 jobs:
     deploy-preview:
         runs-on: ubuntu-latest
-        steps:
+        steps:a
             - uses: actions/checkout@v4
             - uses: actions/setup-python@v6
               with:
@@ -27,7 +27,7 @@ jobs:
             - name: Install dependencies
               run: poetry install --without dev
             - name: Baixar estatuto atualizado
-              run: curl -sSfL https://raw.githubusercontent.com/apyb/estatuto/master/README.rst -o wiki/source/a-associacao/estatuto_content.rst
+              run: curl -sSfL https://raw.githubusercontent.com/apyb/estatuto/master/README.rst -o source/a-associacao/estatuto_content.rst
             - name: Deploy
               run: poetry run make deploy
             - name: Deploy preview
