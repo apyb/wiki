@@ -17,16 +17,19 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v4
-            - uses: actions/setup-python@v5
-           
-            - name: Install dependencies and build
-              if: github.event.action != 'closed'
-              run: |
-                python -m pip install poetry==2.1.4
-                poetry install --without dev
-                curl -sSfL https://raw.githubusercontent.com/apyb/estatuto/master/README.rst -o wiki/source/a-associacao/estatuto_content.rst
-                poetry run make html
+            - uses: actions/setup-python@v6
+              with:
+                python-version: '3.10' 
+            - uses: abatilo/actions-poetry@v4
+              with:
+                poetry-version: 2.1.4
 
+            - name: Install dependencies
+              run: poetry install --without dev
+            - name: Baixar estatuto atualizado
+              run: curl -sSfL https://raw.githubusercontent.com/apyb/estatuto/master/README.rst -o wiki/source/a-associacao/estatuto_content.rst
+            - name: Deploy
+              run: poetry run make deploy
             - name: Deploy preview
               uses: rossjrw/pr-preview-action@v1
               with:
