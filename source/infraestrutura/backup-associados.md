@@ -101,7 +101,11 @@ pg_restore \
 
 ## O que você pode fazer com o banco restaurado?
 
-### Consultar quando uma pessoa associada entrou na APyB:
+### Consultar quando uma pessoa associada entrou na APyB
+
+:::{important}
+Essa consulta só é válida se a pessoa associada tiver feito ao menos um pagamento registrado no sistema legado da APyB. Caso contrário, deverá ser consultado o sistema atual de associados via Stripe.
+:::
 
 Rotineiramente recebemos pedidos de pessoas associadas solicitando um termo que comprove que elas são asssociadas, e nesse termo precisamos informar a data em que a pessoa se associou. Para isso, você pode rodar a seguinte query SQL no banco restaurado, substituindo o placeholder `[USER-EMAIL]` pelo email da pessoa associada:
 
@@ -126,7 +130,3 @@ LEFT JOIN (
   FROM public.payment_transaction
 ) AS tb_transaction ON tb_transaction.payment_id = tb_payment.payment_id
 ```
-
-:::{important}
-Essa consulta só é válida se a pessoa associada tiver feito ao menos um pagamento registrado no sistema legado da APyB. Caso contrário, deverá ser consultado o sistema atual de associados via Stripe.
-:::

@@ -24,7 +24,7 @@ Boas vindas ao nosso site! Aqui, você encontrará informações sobre a associa
 - [Como utilizar o cofre de senhas da APyB?](/infraestrutura/cofre.md)
 - [Como gerenciar pagamentos com Stripe?](/infraestrutura/stripe.md)
 - [Como acessar o backup dos dados dos associados?](/infraestrutura/backup-associados.md)
-- [Como realizar a Assembleia Online?](/infraestrutura/assembleia-online.md)
+- [Como realizar a Assembleia Online?](/infraestrutura/assembleia.md)
 
 ```{toctree}
 :maxdepth: 1
@@ -59,7 +59,7 @@ pythonbrasil/cdc
 :caption: Infraestrutura
 :hidden:
 
-infraestrutura/assembleia-online
+infraestrutura/assembleia
 infraestrutura/backup-associados
 infraestrutura/cofre
 infraestrutura/domínios

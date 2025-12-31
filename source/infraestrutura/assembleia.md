@@ -4,7 +4,7 @@
 
 De acordo com o nosso estatuto, a chamada para à assembleia deverá ocorrer com pelo menos 30 dias de antecedência, mediante correspondência online aos associados ([Capítulo 3, artigo 10](https://github.com/apyb/estatuto/tree/master?tab=readme-ov-file#cap%C3%ADtulo-iii---da-assembleia)).
 
-Em alguns anos viemos utilizando o [GitHub Discussion](https://github.com/apyb/comunidade) que está integrado a nossa lista de e-mail `apyb-associados (@googlegroups.com)`, e posts nas redes sociais. No entanto muitos associados não acompanham as discussões do fórum, ou não entram na lista de e-mail, ou não olham as redes sociais. Por isso, mesmo que uma diretória escolha utilizar alguma ferramenta de disparo de e-mail, é recomendado sempre utilizar mais de uma meio de comunicação, visto que nossos associados possuem um perfil muito diverso. 
+Em alguns anos viemos utilizando o [GitHub Discussion](https://github.com/apyb/comunidade) que está integrado a nossa lista de e-mail `apyb-associados (@googlegroups.com)`, e posts nas redes sociais. No entanto muitos associados não acompanham as discussões do fórum, ou não entram na lista de e-mail, ou não olham as redes sociais. Por isso, mesmo que uma diretória escolha utilizar alguma ferramenta de disparo de e-mail, é recomendado sempre utilizar mais de uma meio de comunicação, visto que nossos associados possuem um perfil muito diverso.
 
 ## Assembleia Online
 
@@ -38,7 +38,21 @@ Abaixo você encontra o passo a passo de como fazer isso:
 2. Editar o formulário para adicionar as informações da assembleia (data, hora, pauta, etc);
 3. Crie um novo documento no Autentique da APyB (*informações de acesso se encontram no cofre*), referente a assembleia que irá ocorrer e configure o documento para não receber novas assinaturas após às 23:59 do dia da assembleia;
 4. Compartilhar o link do formulário no chat da reunião, pedindo para que todos os participantes informem os seus dados (e-mail, nome completo, CPF, etc);
-5. Ao longo da assembleia, ou ao final da mesma, você deve começar a adicionar os e-mails informados no formulário na lista de remetentes do Autentique. 
+5. Ao longo da assembleia, ou ao final da mesma, você deve começar a adicionar os e-mails informados no formulário na lista de remetentes do Autentique.
 
-```{warning} É importante destacar que as assinaturas digitais precisam ser coletadas via Autentique entre 00:01 até 23:59 do dia que a assembleia ocorrer, para que tenham validade jurídica. Também não esqueça de lembrar sempre aos participantes da assembleia a importância de assinar a ata de presença que será enviada via Autentique. 
+```{danger} As assinaturas digitais precisam ser coletadas via Autentique entre **00:01 até 23:59 do dia que a assembleia ocorrer**, para que tenham validade jurídica. Também não esqueça de lembrar sempre aos participantes da assembleia a importância de assinar a ata de presença que será enviada via Autentique, pois **sem a assinatura a pessoa não poderá ser considerada presente na assembleia**.
+```
+
+## Ata da assembleia
+
+No driver da APyB, temos um modelo de ata de assembleia que pode ser utilizado para registrar as decisões tomadas durante a reunião. É importante que a ata seja clara e objetiva, contendo todas as informações relevantes, como data, hora, local (no caso online, informar a plataforma utilizada), participantes, pauta discutida, decisões tomadas e responsáveis por cada ação.
+
+```{important}
+Qualquer dúvida que você tenha durante esse processo, por favor entre em contato com o escritório de contabilidade contratado pela APyB, que eles poderão te auxiliar.
+```
+
+Essa ata deverá ser assinada via GovBr, ou manualmente com reconhecimento de firma, pela pessoa presidente da mesa e pelas pessoas secretárias da assembleia, conforme previsto no nosso estatuto ([Capítulo 3, artigo 12](https://github.com/apyb/estatuto/blob/master/README.rst#cap%C3%ADtulo-iii---da-assembleia)).
+
+```{attention}
+Todo o material referente à assembleia (ata, lista de presença, gravação da reunião, etc) deve ser armazenado em um local seguro e de fácil acesso para futuras consultas. Recomendamos que esse material seja salvo no driver da APyB, em uma pasta específica para assembleias.
 ```

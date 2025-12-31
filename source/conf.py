@@ -24,7 +24,7 @@ import pytz
 # -- Project information -----------------------------------------------------
 
 project = "APyB"
-copyright = "APyB, 2025"
+copyright = "APyB, 2026"
 author = "Associação Python Brasil"
 html_baseurl = "https://apyb.python.org.br"
 

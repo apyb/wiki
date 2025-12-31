@@ -2,7 +2,7 @@
 
 **Python Brasil** é uma conferência vibrante de Python que estimula a comunidade, o debate, propicia negócios, motiva e **conecta pessoas**.
 
-É uma conferência **sem fins lucrativos** mantida por **voluntários** com o suporte da Associação Python Brasil (APyB) e a Python Software Foundation (PSF).
+É uma conferência **sem fins lucrativos** mantida por **voluntários** com o suporte da Associação Python Brasil (APyB).
 
 ```{note} Para acessar o site oficial da Python Brasil, clique [aqui](https://pythonbrasil.org.br/).
 ```
