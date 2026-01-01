@@ -1,5 +1,31 @@
 # Integrantes da diretoria e conselhos
 
+## Gestão 2026-2027
+
+### Diretoria
+
+- Juliana Karoline - Presidente
+- Gustavo Alves - Diretor de Marketing
+- Lucas Carvalho - Diretor de Tecnologia
+- Marcelo Miky - Diretor Financeiro
+
+### Conselho Deliberativo
+
+- Ana Dulce
+- Talita Rossaria
+- Jailson Pereira
+
+### Conselho Fiscal
+
+- Mário Sérgio
+- Belisa Renata
+- Gabriel Bellon
+
+### Suplentes
+
+- Vitor Buxbaum
+- Luis Flavio Rocha
+
 ## Gestão 2024-2025
 
 ### Diretoria
@@ -22,6 +48,7 @@
 - Samuel Sampaio
 
 ### Suplentes
+
 - Murilo Viana
 - Luciano Ratamero
 
@@ -47,6 +74,7 @@
 - Osvaldo Santana
 
 ### Suplentes
+
 - Patrick Mazulo
 - Osvaldo Santana
 
@@ -72,6 +100,7 @@
 - Judite Macedo
 
 ### Suplentes
+
 - André Filipe
 - Leonardo Rochael
 
@@ -97,6 +126,7 @@
 - Luis Felipe Miléo
 
 ### Suplentes
+
 - Tânia Andrea
 - Filipe Cifali
 
@@ -123,5 +153,6 @@
 - Igor dos Santos Silva
 
 ### Suplentes
+
 - Paula Grangeiro
 - Annanda Sousa

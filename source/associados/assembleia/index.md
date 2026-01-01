@@ -12,7 +12,6 @@ Além das Assembleias Gerais ordinárias que acontecem anualmente, a associaçã
 
 ## Atas das Assembleias
 
-```{toctree}
-:maxdepth: 1
-2022
-```
+Por motivos de privacidade e segurança, as atas das Assembleias não estão disponíveis publicamente.
+
+Para ter acesso às atas das Assembleias Gerais e Extraordinárias realizadas pela Associação Python Brasil, por favor, entre em contato conosco através do e-mail `diretoria@ (python.org.br)`. Teremos o prazer em fornecer as informações necessárias.

@@ -2,7 +2,10 @@
 
 **Python Brasil** é uma conferência vibrante de Python que estimula a comunidade, o debate, propicia negócios, motiva e **conecta pessoas**.
 
-É uma conferência sem fins lucrativos mantida por voluntários com o suporte da Associação Python Brasil (APyB) e a Python Software Foundation (PSF).
+É uma conferência **sem fins lucrativos** mantida por **voluntários** com o suporte da Associação Python Brasil (APyB).
+
+```{note} Para acessar o site oficial da Python Brasil, clique [aqui](https://pythonbrasil.org.br/).
+```
 
 ## Audiência
 
@@ -10,29 +13,32 @@ Desenvolvedores de software freelancers, de startups e grandes empresas, ativist
 
 ## Quem já palestrou nas Python Brasil?
 
+- Alex Gaynor, engenheiro de software do OpenStack
 - Alan Runyan, cofundador do Plone e presidente da Enfold
 - Alexander Limi, líder de UX do Firefox na Mozilla
+- Bryan Van de Ven, engenheiro de software na Continuum Analytics e líder do projeto Open Source Bokeh
 - Bruce Eckel, autor de Thinking in Java e Thinking in C++
 - Collin Winter, Google
+- Daniel Greenfeld e Audrey Roy, autores de Two Scoops of Django
+- David Beasley, autor de Python Essential Reference e Python Cookbook
 - Dorneles Tremea, desenvolvedor Plone
 - Facundo Batista, líder técnico da Canonical
+- Fernando Perez, criador do IPython Notebook
 - Gustavo Niemeyer, líder técnico da Canonical
 - Jacob Kaplan-Moss, cofundador do Django
+- Jeferson Fernando, Co-Founder LINUXtips
 - Jim Fulton, Zope Corp.
+- José Valim, criador da linguagem de programação Elixir
 - Kenneth Rohde Christiansen, CTO INdT
+- Luciano Ramalho, autor de Fluent Python
+- Lynn Root, desenvolvedora de software do Spotify e fundadora do Pyladies SF
 - Maciej Fijalkowski, core developer do PyPy
-- Steve Holden, presidente da Python Software Foundation
-- Wesley Chun, developer advocate do Google
+- Naomi Ceder, autora de Quick Python e membro do conselho da Python Software Foundation
 - Paul Everitt, core developer do Plone e core developer do Pyramid
 - Paul Hildebrandt, engenheiro sênior da Walt Disney Studios
-- Daniel Greenfeld e Audrey Roy, autores de Two Scoops of Django
-- Fernando Perez, criador do IPython Notebook
-- José Valim, criador da linguagem de programação Elixir
-- Lynn Root, desenvolvedora de software do Spotify e fundadora do Pyladies SF
-- Alex Gaynor, engenheiro de software do OpenStack
-- Bryan Van de Ven, engenheiro de software na Continuum Analytics e líder do projeto Open Source Bokeh
-- David Beasley, autor de Python Essential Reference e Python Cookbook
-- Naomi Ceder, autora de Quick Python e membro do conselho da Python Software Foundation
+- Sebastián Ramírez, criador do FastAPI e Typer
+- Steve Holden, presidente da Python Software Foundation
+- Wesley Chun, developer advocate do Google
 
 ## Histórico das Python Brasil
 
@@ -40,7 +46,8 @@ Em todas as edições da PythonBrasil uma pessoa da comunidade fica responsável
 
 Essa pessoa recebe, por razões históricas, o título de ‘Big Kahuna’. O ‘Big Kahuna’ é o grande chefe, o maestro da organização, se ele trabalha bem o evento é um sucesso, se ele não trabalha bem o evento não sairá direito.
 
-> Para saber mais sobre o Big Kahuna, leia o [manual do Big Kahuna](https://manual.pythonbrasil.org.br/).
+```{note} Para saber mais sobre o Big Kahuna, leia o [manual do Big Kahuna](https://manual.pythonbrasil.org.br/).
+```
 
 Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoas, e é responsabilidade de todos o sucesso da empreitada.
 
@@ -62,7 +69,9 @@ Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoa
 - 2020 - [Edição Online](https://2020.pythonbrasil.org.br/) - Ana Dulce 
 - 2021 - [Edição Online](https://2021.pythonbrasil.org.br/) - Alynne Ferreira 
 - 2022 - [Manaus - Amazonas - Centro de Convenções do Amazonas](https://2022.pythonbrasil.org.br/) - Juliany Raiol 
-- 2023 - [Caxias do Sul - Rio Grande do Sul - Centro de Convenções do Amazonas](https://2023.pythonbrasil.org.br/) - Adriano Margarin 
+- 2023 - [Caxias do Sul - Rio Grande do Sul - Faculdade Anhanguera](https://2023.pythonbrasil.org.br/) - Adriano Margarin
+- 2024 - [Rio de Janeiro - Rio de Janeiro - Centro de Convenções Bolsa do Rio](https://2024.pythonbrasil.org.br/) - Thais Viana e Bianca Rosa
+- 2025 - [São Paulo - São Paulo - Centro de Evento São Luiz](https://2025.pythonbrasil.org.br/) - Renan de Assis e Izabela Cardoso
 
 Mais informações sobre as edições passadas, como quantidade de inscritos e palestrantes você encontra no [Manual do Big Kahuna](https://manual.pythonbrasil.org.br/)
 

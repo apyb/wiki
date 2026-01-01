@@ -4,6 +4,12 @@ Este manual é um documento vivo que tem como objetivos (1) explicar como você 
 
 Você pode contribuir diretamente para a evolução do manual enviando suas dúvidas, sugestões e observações para `APyB-condir@googlegroups.com` ou `diretoria@python.org.br`.
 
+```{note}
+No final de 2024 a diretoria vigente da APyB fez uma **reunião de onboarding** com alguns Big Kahunas, e você pode assistir a gravação dessa reunião para entender melhor como funciona o processo de organização de eventos com o apoio da APyB.
+
+[Reunião de Onboarding - Organização de Eventos com a APyB](https://drive.google.com/file/d/11guz90FWsRVVQdlqa6XZcwvxs1lM8EbM/view?usp=sharing)
+```
+
 ## O que é preciso para usar a infraestrutura da APyB?
 
 Os critérios para usar a infraestrutura da APyB são simples:

@@ -24,3 +24,11 @@ Os segredos da APyB são encriptados usando o gerenciador de senhas KeePassXC. E
 1. Sempre que for adicionar uma senha no cofre, antes de abrir o Keepass, execute `git pull`.
 1. Após adicionar um novo item no cofre, crie um novo *commit* e atualize o repositório com `git push`.
 1. Por fim, notifique os diretores da atualização.
+
+## Python Brasil
+
+No caso da Python Brasil, para auxiliar o gerenciamneto de senha utilizamos o [1password](https://1password.com/). Apenas a APyB e a comissão organizadora da Python Brasil têm acesso a esse cofre. Para saber mais como que funciona o nosso plano no 1password, consulte o repositório [1Password for Open Source](https://github.com/1Password/for-open-source).
+
+```{important}
+A senha de acesso ao 1password é diferente da senha de acesso ao KeePassXC, e para saber mais detalhes sobre como acessar o cofre da Python Brasil, pesquise por `1password` no cofre da APyB. 
+```

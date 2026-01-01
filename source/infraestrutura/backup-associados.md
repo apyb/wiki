@@ -98,3 +98,35 @@ pg_restore \
 > **Se quiser restaurar só uma tabela**: liste o conteúdo (`pg_restore -l backup_banco_associados.dump > toc.list`), edite a lista e use `pg_restore -L toc.list ...`.
 
 ---
+
+## O que você pode fazer com o banco restaurado?
+
+### Consultar quando uma pessoa associada entrou na APyB
+
+:::{important}
+Essa consulta só é válida se a pessoa associada tiver feito ao menos um pagamento registrado no sistema legado da APyB. Caso contrário, deverá ser consultado o sistema atual de associados via Stripe.
+:::
+
+Rotineiramente recebemos pedidos de pessoas associadas solicitando um termo que comprove que elas são asssociadas, e nesse termo precisamos informar a data em que a pessoa se associou. Para isso, você pode rodar a seguinte query SQL no banco restaurado, substituindo o placeholder `[USER-EMAIL]` pelo email da pessoa associada:
+
+```sql
+SELECT 
+  MIN(tb_transaction."date") AS first_payment
+FROM (
+  SELECT id, email
+  FROM public.auth_user
+  WHERE email = '[USER-EMAIL]' -- substitua pelo email da pessoa associada
+) AS tb_users
+LEFT JOIN (
+  SELECT id AS member_id, user_id, cpf
+  FROM public.members_member
+) AS tb_members ON tb_users.id = tb_members.user_id
+LEFT JOIN (
+  SELECT id AS payment_id, member_id
+  FROM public.payment_payment
+) AS tb_payment ON tb_members.member_id = tb_payment.member_id
+LEFT JOIN (
+  SELECT payment_id, date
+  FROM public.payment_transaction
+) AS tb_transaction ON tb_transaction.payment_id = tb_payment.payment_id
+```
