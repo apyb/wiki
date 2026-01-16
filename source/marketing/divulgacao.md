@@ -31,7 +31,7 @@ Demais materiais podem ser encomendados seja na cidade sede do evento que irá f
 - A candidatura para cidade sede deve ser iniciada entre 7 a 10 antes da Python Brasil e deve ser encerrada na véspera da Assembleia Geral (quando a eleição da cidade sede é feita).
 - As indicações para o Prêmio Dorneles devem ser iniciadas cerca de 4 meses antes da Python Brasil e deve ficar ativa por cerca de 2 a 3 meses
 - As placas devem estar prontas em até 21 dias antes do início da sua viagem para a Python Brasil (ou de quem for entregá-las)
-- A Assembleia Geral (AG) deve ser divulgada no máximo 31 dias antes do evento - caso não dê tempo, uma nova data para a AG deverá ser escolhida e uma nova campanha ser iniciadadeve ser divulgada no máximo 31 dias antes do evento - caso não dê tempo, uma nova data para a AG deverá ser escolhida e uma nova campanha ser iniciada
+- A Assembleia Geral (AG) deve ser divulgada no máximo 31 dias antes do evento - caso não dê tempo, uma nova data para a AG deverá ser escolhida e uma nova campanha ser iniciada
 - As pautas para a AG devem ser iniciadas 4 meses antes da Python Brasil - ou antes
 - O delay entre postagens da APyB entre diferentes redes sociais (e.g. post sobre Anuidade no LinkedIn e o mesmo post no Telegram) não deve ser maior do que 24h
 
