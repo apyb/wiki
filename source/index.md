@@ -66,3 +66,13 @@ infraestrutura/domínios
 infraestrutura/repositórios
 infraestrutura/stripe
 ```
+
+```{toctree}
+:caption: Comunicação
+:hidden:
+
+marketing/objetivo
+marketing/divulgacao
+marketing/ferramentas
+marketing/campanhas
+```
