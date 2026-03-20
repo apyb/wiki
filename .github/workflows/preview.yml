@@ -12,6 +12,10 @@ concurrency:
     group: preview-${{ github.ref }}
     cancel-in-progress: true
 
+permissions:
+    contents: write
+    pull-requests: write
+
 jobs:
     deploy-preview:
         runs-on: ubuntu-latest
@@ -26,8 +30,8 @@ jobs:
 
             - name: Install dependencies
               run: poetry install --without dev
-            - name: Deploy
-              run: poetry run make deploy
+            - name: Build
+              run: poetry run make html
             - name: Deploy preview
               uses: rossjrw/pr-preview-action@v1
               with:

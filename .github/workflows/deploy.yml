@@ -24,5 +24,5 @@ jobs:
       - name: Install dependencies
         run: |
           poetry install --without dev
-     - name: Deploy
+      - name: Deploy
         run: poetry run make deploy
