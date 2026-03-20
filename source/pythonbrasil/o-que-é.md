@@ -64,8 +64,8 @@ Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoa
 - 2015 - [São Paulo - São José dos Campos - Novotel](https://manual.pythonbrasil.org.br/introducao/historia/pythonbrasil11.html) - Renzo Nuccitelli
 - 2016 - [Santa Catarina - Florianópolis - Centro de Convenções CentroSul](https://manual.pythonbrasil.org.br/introducao/historia/pythonbrasil12.html) - Mário Sérgio Oliveira de Queiroz
 - 2017 - [Belo Horizonte - Minas Gerais - Dayrell Hotel](https://2017.pythonbrasil.org.br/) - Igor Santos
-- 2018 - [Natal - Rio Grande do Norte - Holiday Inn Natal Hotel](https://manual.pythonbrasil.org.br/introducao/historia/pythonbrasil14.html) - Danilo Shiga
-- 2019 - [Ribeirão Preto - São Paulo - Centro de Convenções Ribeirão Preto](https://2019.pythonbrasil.org.br/) - 
+- 2018 - [Natal - Rio Grande do Norte - Holiday Inn Natal Hotel](https://manual.pythonbrasil.org.br/introducao/historia/pythonbrasil14.html) - Italo Rossi
+- 2019 - [Ribeirão Preto - São Paulo - Centro de Convenções Ribeirão Preto](https://2019.pythonbrasil.org.br/) - Danilo Shiga
 - 2020 - [Edição Online](https://2020.pythonbrasil.org.br/) - Ana Dulce 
 - 2021 - [Edição Online](https://2021.pythonbrasil.org.br/) - Alynne Ferreira 
 - 2022 - [Manaus - Amazonas - Centro de Convenções do Amazonas](https://2022.pythonbrasil.org.br/) - Juliany Raiol 
