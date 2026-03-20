@@ -8,9 +8,9 @@ on:
             - synchronize
             - closed
 
-concurrency: 
-    group: preview-${{ github.ref }}
-    cancel-in-progress: true
+concurrency:
+    group: gh-pages
+    cancel-in-progress: false
 
 permissions:
     contents: write
@@ -29,10 +29,13 @@ jobs:
                 poetry-version: 2.1.4
 
             - name: Install dependencies
+              if: github.event.action != 'closed'
               run: poetry install --without dev
             - name: Build
+              if: github.event.action != 'closed'
               run: poetry run make html
             - name: Deploy preview
               uses: rossjrw/pr-preview-action@v1
+              if: github.event.pull_request.head.repo.full_name == github.repository
               with:
                 source-dir: ./build/html/

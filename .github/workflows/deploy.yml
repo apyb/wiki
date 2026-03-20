@@ -6,6 +6,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: gh-pages
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -24,5 +28,12 @@ jobs:
       - name: Install dependencies
         run: |
           poetry install --without dev
+      - name: Build
+        run: poetry run make html
       - name: Deploy
-        run: poetry run make deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build/html
+          branch: gh-pages
+          force: false
+          clean-exclude: pr-preview/
