@@ -43,7 +43,7 @@ jobs:
               with:
                   python-version: '3.10'
 
-            - uses: abatilo/actions-poetry@v4
+            - uses: abatilo/actions-poetry@0dd19c9498c3dc8728967849d0d2eae428a8a3d8 # v4
               if: inputs.action == 'deploy'
               with:
                   poetry-version: 2.1.4
@@ -57,7 +57,7 @@ jobs:
               run: poetry run make html
 
             - name: Deploy preview
-              uses: rossjrw/pr-preview-action@v1
+              uses: rossjrw/pr-preview-action@ffa7509e91a3ec8dfc2e5536c4d5c1acdf7a6de9 # v1
               with:
                   source-dir: ./build/html/
                   pr-number: ${{ inputs.pr_number }}
