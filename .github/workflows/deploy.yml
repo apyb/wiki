@@ -6,6 +6,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: gh-pages
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -17,12 +21,19 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.10' 
-      - uses: abatilo/actions-poetry@v4
+      - uses: abatilo/actions-poetry@0dd19c9498c3dc8728967849d0d2eae428a8a3d8 # v4
         with:
           poetry-version: 2.1.4
 
       - name: Install dependencies
         run: |
           poetry install --without dev
+      - name: Build
+        run: poetry run make html
       - name: Deploy
-        run: poetry run make deploy
+        uses: JamesIves/github-pages-deploy-action@d92aa235d04922e8f08b40ce78cc5442fcfbfa2f # v4
+        with:
+          folder: build/html
+          branch: gh-pages
+          force: false
+          clean-exclude: pr-preview/

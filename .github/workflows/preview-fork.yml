@@ -1,0 +1,64 @@
+name: Deploy Fork PR Preview
+
+# Org admins can manually deploy/remove a preview for a PR from a fork.
+# rossjrw/pr-preview-action@v1 does not support forks automatically,
+# so this workflow is the workaround until v2 is released.
+#
+# ⚠️  Only trigger this after reviewing the fork's code, since it checks
+#     out and runs code from the PR branch.
+
+on:
+    workflow_dispatch:
+        inputs:
+            pr_number:
+                description: 'PR number (from a fork)'
+                required: true
+                type: number
+            action:
+                description: 'Action to perform'
+                type: choice
+                options:
+                    - deploy
+                    - remove
+                default: deploy
+
+concurrency:
+    group: gh-pages
+    cancel-in-progress: false
+
+permissions:
+    contents: write
+    pull-requests: write
+
+jobs:
+    deploy-fork-preview:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+              with:
+                  ref: refs/pull/${{ inputs.pr_number }}/head
+
+            - uses: actions/setup-python@v6
+              if: inputs.action == 'deploy'
+              with:
+                  python-version: '3.10'
+
+            - uses: abatilo/actions-poetry@0dd19c9498c3dc8728967849d0d2eae428a8a3d8 # v4
+              if: inputs.action == 'deploy'
+              with:
+                  poetry-version: 2.1.4
+
+            - name: Install dependencies
+              if: inputs.action == 'deploy'
+              run: poetry install --without dev
+
+            - name: Build
+              if: inputs.action == 'deploy'
+              run: poetry run make html
+
+            - name: Deploy preview
+              uses: rossjrw/pr-preview-action@ffa7509e91a3ec8dfc2e5536c4d5c1acdf7a6de9 # v1
+              with:
+                  source-dir: ./build/html/
+                  pr-number: ${{ inputs.pr_number }}
+                  action: ${{ inputs.action }}
