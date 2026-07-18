@@ -68,8 +68,8 @@ Ao solicitar movimentação financeira ou recebimento de recursos do exterior, t
 
 * - Endereço
   - Rua José Tovasi, 417
-    <br>Bairro Cruzeiro, Caxias do Sul, RS
-    <br>95.072-300
+    <br>Bairro Bela Vista, Caxias do Sul, RS
+    <br>95.072-342
 
 * - Banco
   - 001 Banco do Brasil
